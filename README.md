@@ -4,12 +4,15 @@
 
 📚 Here are some of my favourite stacks:
 
-JavaScript <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-Python <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-React <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Spring-61DAFB?style=for-the-badge&logo=spring&logoColor=black" alt="Spring">
+
 🌐 Connect with me:
 
-LinkedIn <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+
 📊 Stats:
 
 Kaveez's GitHub stats
@@ -19,4 +22,5 @@ Kaveez's GitHub stats
 📫 If you have any questions or suggestions, feel free to contact me. I'm always happy to help!
 
 <p align="center"> <img src="https://github.com/thekaveez/thekaveez/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
+
 Enjoy exploring my repositories and don't hesitate to reach out! 😄
