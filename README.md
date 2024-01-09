@@ -76,8 +76,9 @@
 
 <!--  # 📊 GitHub Stats: -->
 ![](https://github-readme-stats.vercel.app/api?username=thekaveez&show_icons=true&count_private=true&theme=gotham&hide_border=true) <br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thekaveez&theme=gotham&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekaveez&layout=compact&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) ![](https://github-readme-streak-stats.herokuapp.com/?user=thekaveez/&theme=gotham&hide_border=true) <br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thekaveez&theme=gotham&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekaveez&layout=compact&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) ![GitHub Streak](https://github-readme-streak-stats-eight-eta.vercel.app?user=thekaveez&theme=gotham&hide_border=true) <br/>
  <br/>
+
 
 
 </div>
