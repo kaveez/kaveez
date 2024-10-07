@@ -109,8 +109,14 @@
 [Medium]:https://medium.com/@minduladilthushan
 
 -->
-<div align="center">
+
+ <div align="center">
   
+ [![An image of @thekaveez's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thekaveez)](https://holopin.io/@thekaveez)
+</div>
+
+<div align="center">
+ 
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,0:55EFC4&height=80&section=footer)
 
 </div>
